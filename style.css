@@ -279,3 +279,19 @@ footer{
 }
 .items-list > li{
     margin-top: 0.5rem;
+}
+.lower-foot-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 6rem;
+}
+.l-foot-items{
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+.l-foot-items > *{
+    font-size: 0.85rem;
+    cursor: pointer;
+}

@@ -279,3 +279,27 @@ let obj = {
                   "images": []
                 },
                 {
+                  "title": "Essentials",
+                  "subtitle": "Towels, bed sheets, soap, and toilet paper",
+                  "available": true,
+                  "image": null,
+                  "images": []
+                },
+                {
+                  "title": "Bed linens",
+                  "subtitle": "Cotton linens",
+                  "available": true,
+                  "image": null,
+                  "images": []
+                },
+                {
+                  "title": "Drying rack for clothing",
+                  "subtitle": "",
+                  "available": true,
+                  "image": null,
+                  "images": []
+                },
+                {
+                  "title": "Clothing storage: closet",
+                  "subtitle": "",
+                  "available": true,
