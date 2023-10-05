@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Airbnb-Clone
-=======
 # Airbnb-Clone-Sep
 
 # Here is Deploy Link - 
